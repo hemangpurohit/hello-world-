@@ -1,2 +1,4 @@
 # hello-world-
-just another repository 
+Hello there, 
+
+I am a robotics and AI enthusiast and looking to make significant contribution to these fields. 
